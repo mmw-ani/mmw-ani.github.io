@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Programmer","Developer" ,"Freelancer", "CTF-Player","Student","Geek"],
+        strings: ["Programmer","Developer" , "CTF-Player","Student","Geek"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -26,7 +26,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing2", {
-        strings: ["Programmer","Developer" ,"Freelancer", "CTF-Player","Student","Geek"],
+        strings: ["Programmer","Developer" , "CTF-Player","Student","Geek"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
