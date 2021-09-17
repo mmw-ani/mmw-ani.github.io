@@ -347,10 +347,10 @@ section .title::after{
     transition: .3s linear;
     position: relative;
 }
-.contact .social-icons a:hover{
+/* .contact .social-icons a:hover{
     transform: scale(1.2);
     border-radius: 35%;
-}
+} */
 .contact .social-icons a i::before{
     position: absolute;
     width: 100%;
